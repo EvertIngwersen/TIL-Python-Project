@@ -26,8 +26,8 @@ This is the project for the TIL6022 python elective course @TU Delft. A basic py
 
 [Report:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/Report/Report_Group_14.ipynb) details and descriptions, contains one .ipynb file and its corresponding html file.
 
-[sub_question_1.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/Code/sub_question_1.ipynb) python script for this dataset.
+[sub_question_1.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/Code/sub_question_1.ipynb) python script for the plot of subquestion 1.
 
-[sub_question_2.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/Code/Sub_question_2.ipynb) python script for this dataset.
+[sub_question_2.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/Code/Sub_question_2.ipynb) python script for the plot of subquestion 2.
 
-[sub_question_3.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/Code/sub_question_3.ipynb) python script for this dataset.
+[sub_question_3.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/Code/sub_question_3.ipynb) python script for the plot of subquestion 3.
