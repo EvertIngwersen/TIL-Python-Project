@@ -28,6 +28,6 @@ This is the project for the TIL6022 python elective course @TU Delft. A basic py
 
 [sub_question_1.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/code/sub_question_1.ipynb) python script for the plot of subquestion 1.
 
-[sub_question_2.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/code/Sub_question_2.ipynb) python script for the plot of subquestion 2.
+[sub_question_2.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/code/sub_question_2.ipynb) python script for the plot of subquestion 2.
 
 [sub_question_3.ipynb:](https://github.com/EvertIngwersen/TIL-Python-Project/blob/main/code/sub_question_3.ipynb) python script for the plot of subquestion 3.
