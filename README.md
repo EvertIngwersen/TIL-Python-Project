@@ -2,8 +2,6 @@
 
 READ ME FILE
 
-## Python-data-analysis
-
 This is the project for the TIL6022 python elective course @TU Delft. A basic python data analysis framework has been implemented (focusing on the data visualization).
 
 ### Contributors
